@@ -1,1 +1,0 @@
-{"version":2,"name":"cregul","outputDirectory":"public","rewrites":[{"source":"/(.*)","destination":"/index.html"}]}
